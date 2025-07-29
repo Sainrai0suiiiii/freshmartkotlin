@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "24hrs"
+rootProject.name = "freshmart"
 include(":app")
  

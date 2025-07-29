@@ -1,4 +1,4 @@
-package com.example.a24hrs.ui.theme
+package com.example.freshmart.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

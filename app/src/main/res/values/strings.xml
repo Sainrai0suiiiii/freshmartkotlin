@@ -1,9 +1,12 @@
 <resources>
-    <string name="app_name">24hrs</string>
+    <string name="app_name">freshmart</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_registration">RegistrationActivity</string>
-    <string name="title_activity_splash">SplashActivity</string>
-    <string name="title_activity_forget_password">ForgetPasswordActivity</string>
-    <string name="title_activity_edit_profile_acitivity">EditProfileAcitivity</string>
-    <string name="title_activity_editprofile">EditprofileActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="title_activity_view_product">ViewProductActivity</string>
+    <string name="title_activity_edit_product">EditProductActivity</string>
+    <string name="title_activity_add_product">AddProductActivity</string>
+    <string name="title_activity_add_product_screen">AddProductScreen</string>
+    <string name="title_activity_view_product_screen">ViewProductScreen</string>
 </resources>

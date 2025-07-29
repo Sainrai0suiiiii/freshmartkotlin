@@ -1,4 +1,4 @@
-package com.example.a24hrs.ui.theme
+package com.example.freshmart.view.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.example.a24hrs
+package com.example.freshmart
 
 import org.junit.Test
 
